@@ -1,2 +1,0 @@
-# python-intern
-day1
