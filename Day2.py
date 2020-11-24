@@ -8,7 +8,7 @@ print("res3=",res3)
 
 s="apples"
 a2=s.replace('l','G')
-print(a)
+print(a2)
 
 a1=10
 b1=0.50
