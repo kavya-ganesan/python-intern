@@ -12,5 +12,5 @@ print(a)
 
 a1=10
 b1=0.50
-print(float(a))
-print(int(b))
+print(float(a1))
+print(int(b1))
