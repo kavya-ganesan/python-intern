@@ -6,8 +6,8 @@ print("res1=",res1)
 print("res2=",res2)
 print("res3=",res3)
 
-s="apples"
-a2=s.replace('l','G')
+s="apple"
+a2=s.replace('p','G')
 print(a2)
 
 a1=10
