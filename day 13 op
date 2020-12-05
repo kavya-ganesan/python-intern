@@ -1,0 +1,116 @@
+Starting to make a coffee
+Grinding coffee beans
+Boiling water
+Mixing boiled water with crushed coffee beans
+Pouring coffee into the cup
+Pouring some milk into the cup
+Coffee is ready!
+
+Write how many cups of coffee you will need: 1
+For 1 cups of coffee you will need:
+200 ml of water
+50 ml of milk
+15 g of coffee beans
+Write how many ml of water the coffee machine has: 500
+Write how many ml of milk the coffee machine has: 500
+Write how many grams of coffee beans the coffee machine has: 50
+Write how many cups of coffee you will need: 1
+Yes, I can make that amount of coffee (and even 1 more than that)
+The coffee machine has:
+1200 of water
+540 of milk
+120 of coffee beans
+9 of disposable cups
+550 of money
+
+Write action (buy, fill, take): fill
+Write how many ml of water do you want to add: 100
+Write how many ml of milk do you want to add: 50
+Write how many grams of coffee beans do you want to add: 50
+Write how many disposable cups of coffee do you want to add: 5
+
+
+The coffee machine has:
+1300 of water
+590 of milk
+170 of coffee beans
+14 of disposable cups
+550 of money
+
+thank you for purchasing your coffee
+> 
+
+Starting to make a coffee
+Grinding coffee beans
+Boiling water
+Mixing boiled water with crushed coffee beans
+Pouring coffee into the cup
+Pouring some milk into the cup
+Coffee is ready!
+
+Write how many cups of coffee you will need: 2
+For 2 cups of coffee you will need:
+400 ml of water
+100 ml of milk
+30 g of coffee beans
+Write how many ml of water the coffee machine has: 500
+Write how many ml of milk the coffee machine has: 500
+Write how many grams of coffee beans the coffee machine has: 50
+Write how many cups of coffee you will need: 2
+Yes, I can make that amount of coffee
+The coffee machine has:
+1200 of water
+540 of milk
+120 of coffee beans
+9 of disposable cups
+550 of money
+
+Write action (buy, fill, take): buy
+What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino: 2
+The coffee machine has:
+850 of water
+465 of milk
+100 of coffee beans
+8 of disposable cups
+557 of money
+
+thank you for purchasing your coffee
+> 
+
+Starting to make a coffee
+Grinding coffee beans
+Boiling water
+Mixing boiled water with crushed coffee beans
+Pouring coffee into the cup
+Pouring some milk into the cup
+Coffee is ready!
+
+Write how many cups of coffee you will need: 3
+For 3 cups of coffee you will need:
+600 ml of water
+150 ml of milk
+45 g of coffee beans
+Write how many ml of water the coffee machine has: 600
+Write how many ml of milk the coffee machine has: 300
+Write how many grams of coffee beans the coffee machine has: 50
+Write how many cups of coffee you will need: 3
+Yes, I can make that amount of coffee
+The coffee machine has:
+1200 of water
+540 of milk
+120 of coffee beans
+9 of disposable cups
+550 of money
+
+Write action (buy, fill, take): take
+I gave you $550
+
+The coffee machine has:
+1200 of water
+540 of milk
+120 of coffee beans
+9 of disposable cups
+0 of money
+
+thank you for purchasing your coffee
+> 
