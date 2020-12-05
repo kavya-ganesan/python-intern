@@ -160,60 +160,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-
-money = 550
-water = 400
-milk = 540
-beans = 120
-cups = 9
-
-
-class ResourceError(Exception):
-    pass
-
-
-def print_state():
-    print()
-    print('The coffee machine has:')
-    print(f'{water} of water')
-    print(f'{milk} of milk')
-    print(f'{beans} of coffee beans')
-    print(f'{cups} of disposable cups')
-    print(f'{money} of money')
-    print()
-
-
-def select_action() -> str:
-    return input('Write action (buy, fill, take, remaining, exit): ')
-
-
-def select_flavor() -> int:
-    print()
-    response = input('What do you want to buy?'
-                     ' 1 - espresso,'
-                     ' 2 - latte,'
-                     ' 3 - cappuccino,'
-                     ' back - to main menu: ')
-    if response == 'back':
-        return 0
-    return int(response)
-
-
-def is_enough(need_water=0, need_milk=0, need_beans=0):
-    if water < need_water:
-        print('Sorry, not enough water!\n')
-        raise ResourceError
-    if milk < need_milk:
-        print('Sorry, not enough milk!\n')
-        raise ResourceError
-    if beans < need_beans:
-        print('Sorry, not enough beans!\n')
-        raise ResourceError
-    if cups < 1:
-        print('Sorry, not enough cups\n')
-        raise ResourceError
-    print('I have enough resources, making you a coffee!\n')
-
 def final():
     print("thank you for purchasing your coffee")
 final()
