@@ -1,0 +1,55 @@
+Welcome to GREAT DAY Coffee machine!
+Choose action to perform:
+1--I WANT TO BUY COFFEE
+2--I WANT A REPORT OF MY COFFEE
+3--I WANT TO SEE THE STATUS OF MACHINE
+4--OFF: 1
+What do you want to buy?
+1 - Espresso
+2 - Latte
+3 - Cappuccino
+4 - back to main menu:
+1
+I have enough resources, making you a coffee!
+The Cost is:$ 4
+Please insert coins.
+enter the number of dollars10
+enter the number of cents5
+You gave: $ 15
+Balance amount:$ 11
+Collect your balance
+yay!Order confirmed.
+Here's your Order. Enjoy!
+ Have a great day with coffee ;)
+
+Welcome to GREAT DAY Coffee machine!
+Choose action to perform:
+1--I WANT TO BUY COFFEE
+2--I WANT A REPORT OF MY COFFEE
+3--I WANT TO SEE THE STATUS OF MACHINE
+4--OFF: 2
+Your coffee has
+Water: 250 ml
+Milk: 0 ml
+Coffee-beans 16 nos.
+Cost:$ 4
+
+Welcome to GREAT DAY Coffee machine!
+Choose action to perform:
+1--I WANT TO BUY COFFEE
+2--I WANT A REPORT OF MY COFFEE
+3--I WANT TO SEE THE STATUS OF MACHINE
+4--OFF: 3
+The coffee machine has:
+250 of water
+540 of milk
+34 of coffee beans
+9 of disposable cups
+$504 of money
+
+Welcome to GREAT DAY Coffee machine!
+Choose action to perform:
+1--I WANT TO BUY COFFEE
+2--I WANT A REPORT OF MY COFFEE
+3--I WANT TO SEE THE STATUS OF MACHINE
+4--OFF: 4
