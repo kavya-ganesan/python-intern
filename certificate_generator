@@ -1,3 +1,18 @@
+algorithm to do this project:
+we have to install the following packages pillow, pandas and os
+if already installed means no problem if not install using the following ways
+open command prompt
+  pip install pillow
+  pip install pandas
+  pip install os
+after installation of the packages type the following code (certi.py) in python complier
+before running this program we have to create a excel file with the given fields and we have to insert it in the program (Book1.csv)
+then we have to create a certificate template of our wish as per our needs(Certificate11024_1.jpg)
+after the  insertion of  these both, the coordinates are given
+before running the file save the python file and excel in a same folder and create a folder pictures to save the complete certificate.
+after all things done ,save and run the python file ,the required output will be in the pictures folder .
+
+
 certi.py
 from PIL import Image,ImageDraw,ImageFont
 import pandas as pd
@@ -15,14 +30,14 @@ for index,j in df.iterrows():
 
 Book1.csv
 name        	gender 	 certificate number	      mentor name	    project manager	    month
-V.G.Kavya	      f	        1                     	meenaskhi	        Sam	            December
-S.Raju	        m	        2	                       ashwin	          Sam	            December
-M.Madhuvathi	  f	        3                      	ashwin	          Sam	            December
-G.Akshaya	      f	        4	                      meenaskhi	        Sam	            December
-R.Rahul	        m	        5	                      meenaskhi	        Sam	            December
-S.Benita	      f	        6	                       ashwin	          Sam            	December
-J.Jack	        m	        7	                      ashwin	          Sam	            December
-K.Karthi	      m	        8                     	meenaskhi	        Sam	            December
+V.G.Kavya	      f	        1                     	meenaskhi	       Sam	            December
+S.Raju	          m	        2	                       ashwin	       Sam	            December
+M.Madhuvathi	  f	        3                      	ashwin	           Sam	            December
+G.Akshaya	      f	        4	                      meenaskhi	       Sam	            December
+R.Rahul	          m	        5	                      meenaskhi	       Sam	            December
+S.Benita	      f	        6	                       ashwin	       Sam            	December
+J.Jack	          m	        7	                      ashwin	       Sam	            December
+K.Karthi	      m	        8                     	meenaskhi	       Sam	            December
 
 
 output files are V.G.Kavya.jpg, G.Akshaya.jpg, Rahul.jpg, Jack.jpg,Madhuvanti.jpg
